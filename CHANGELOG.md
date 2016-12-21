@@ -1,3 +1,5 @@
+# 5.0.2
+  - Updated to use logstash-core-plugin-api 2.x and support the new Logstash Event API.
 # 2.0.4
   - Depend on logstash-core-plugin-api instead of logstash-core, removing the need to mass update plugins on major releases of logstash
 # 2.0.3
